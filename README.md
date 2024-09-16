@@ -3,8 +3,6 @@ Sou estudante da área da técnologia e estou em busca de desenvolvimento na ár
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketlly-sampaio/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketllysampaio&hide_progress=true)
-
 ## Tecnologias que estou aprendendo
 
 <div style="display: inline_block"><br/>
