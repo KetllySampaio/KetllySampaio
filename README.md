@@ -1,5 +1,5 @@
-### Olá eu sou a Kétlly Sampaio🖐🏾
-Sou estudante da área da técnologia e estou em busca de desenvolvimento na área!
+### Olá!! Seja Bem Vindo(a), sou a Kétlly Sampaio🖐🏾
+Estudante da área da técnologia e em busca de desenvolvimento na área!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketlly-sampaio/)
 
