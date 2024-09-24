@@ -2,7 +2,6 @@
 Estudante da área da técnologia, em busca de desenvolvimento na área!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketlly-sampaio/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketlly-sampaio&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que estou aprendendo
 
@@ -12,6 +11,9 @@ Estudante da área da técnologia, em busca de desenvolvimento na área!
 <img align="center" alt="python3" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketllysampaio)](https://github.com/ketlly-sampaio/github-readme-stats)
 
 <!---
 KetllySampaio/KetllySampaio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
